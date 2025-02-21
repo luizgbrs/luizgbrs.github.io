@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Chrono / Smartwatch</title>
+   <link rel="stylesheet" href="style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+   <header class="header">
+      <section>
+         <a href="#" class="logo">
+            <img src="imgs/logo.png" alt="logo">
+         </a>
+         <nav class="navbar">
+            <a href="#home">Home</a>
+            <a href="#about">Sobre</a>
+            <a href="#review">Avaliações</a>
+            <a href="#menu">Contato</a>
+         </nav>
+         <div class="icons">
+            <img width="26" height="26" src="https://img.icons8.com/material-outlined/26/ffffff/search--v1.png"
+               alt="search--v1" />
+            <img width="30" height="30" src="https://img.icons8.com/windows/32/ffffff/shopping-cart.png" alt="shopping-cart" />
+      </section>
+      </div>
+   </header>
+
+   <div class="home-container">
+      <section id="Home">
+         <div class="content">
+            <h3>Controle seu tempo. Eleve seu ritmo.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla eos iste magni expedita autem ipsam quas unde deleniti esse doloremque nostrum illo nihil necessitatibus cumque, harum incidunt pariatur officia eum.</p>
+            <a href="#" class="btn">Compre agora!</a>
+         </div>
+      </section>
+   </div>
+</body>
+
+</html>
